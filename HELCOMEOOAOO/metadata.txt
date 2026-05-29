@@ -1,0 +1,20 @@
+[general]
+name=HELCOM EOO/AOO
+qgisMinimumVersion=3.28
+version=1.0.0
+author=Andžej Miloš
+email=andzej.milos@helcom.fi
+
+description=Calculate Extent of Occurrence (EOO) and Area of Occupancy (AOO) from Ecosystem component distribution raster data.
+
+about=A QGIS plugin for calculating Extent of Occurrence (EOO) and Area of Occupancy (AOO) of ecosystem components (habitats, species, communities, etc) in the Baltic Sea. Calculation is done based on ecosystem components distribution raster datasets.
+
+category=Analysis
+icon=icon.png
+
+homepage=https://github.com/helcomsecretariat/helcom-eoo-aoo
+tracker=https://github.com/helcomsecretariat/helcom-eoo-aoo/issues
+repository=https://github.com/helcomsecretariat/helcom-eoo-aoo
+
+experimental=False
+deprecated=False
