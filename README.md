@@ -185,11 +185,15 @@ Contains no EOO polygon same fields as Shapefile.
 
 ---
 
-## 🛠 Installation
+## 🛠 Getting and installing the plugin
 
-1. Download plugin ZIP
-2. In QGIS, navigate to **Plugins → Manage and Install Plugins → Install from ZIP**
-3. Select plugin ZIP
+1. Download the plugin from Releases: Releases → HELCOMEOOAOO.zip
+⚠️ Do NOT use Code → Download ZIP (it will not install properly in QGIS)
+2. Open QGIS
+3. Go to: Plugins → Manage and Install Plugins → Install from ZIP
+4. Select the downloaded .zip file
+5. Click Install Plugin
+6. Enable the plugin if needed
 
 ---
 
